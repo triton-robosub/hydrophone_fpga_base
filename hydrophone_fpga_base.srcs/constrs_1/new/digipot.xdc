@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN J18 [get_ports sck_0]
+set_property PACKAGE_PIN K18 [get_ports cs_n_0]
+set_property IOSTANDARD LVCMOS25 [get_ports sck_0]
+set_property IOSTANDARD LVCMOS25 [get_ports cs_n_0]
+set_property IOSTANDARD LVCMOS25 [get_ports sdo_0]
+set_property PACKAGE_PIN H18 [get_ports sdo_0]
